@@ -2,6 +2,9 @@
 
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com/)
 - 🥖 I live in Turkey
+- 👫 He/Him
+- 💻 Full Stack Developer
+- 🎨 Graphic Designer (UI | UX | Illustration)
 
 ## 🔗 Connect with me:
 <p align="left">
