@@ -20,4 +20,4 @@
 
 <img src="https://lanyard.cnrad.dev/api/599273960366014468">
 [![Discord Presence](https://lanyard.cnrad.dev/api/599273960366014468)](https://discord.com/users/599273960366014468)
-[![github-views](https://komarev.com/ghpvc/?username=sayrix&color=brightgreen)](https://github.com/escobarb3y)
+[![github-views](https://komarev.com/ghpvc/?username=escobarb3y&color=brightgreen)](https://github.com/escobarb3y)
