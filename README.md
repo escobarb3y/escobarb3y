@@ -1,7 +1,7 @@
 ## Hi 👋, I'm escobarb3y/EscobarBey
 
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com/)
-- 🥖 I live in Turkey
+- 🌍 I live in Turkey
 - 👫 He/Him
 - 💻 Full Stack Developer
 - 🎨 Graphic Designer (UI | UX | Illustration)
