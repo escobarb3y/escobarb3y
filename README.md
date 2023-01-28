@@ -28,7 +28,6 @@
 
 ## Top Langs
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escobarb3y&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321"/>
 <img src="https://komarev.com/ghpvc/?username=escobarb3y&label=Ziyaretçi%20Sayısı&color=da004e" alt="escobarb3y" />
 
 </div>
